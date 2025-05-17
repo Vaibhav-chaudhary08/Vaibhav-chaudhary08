@@ -30,7 +30,7 @@ Dynamic Software Developer skilled in multiple programming languages, with hands
 
 ### Groove Up | React.js, Node.js, Express.js, MongoDB
 
-**Github Repo:** [https://http://github.com/Vaibhav-chaudhary08/Groove-Up](https://http://github.com/Vaibhav-chaudhary08/Groove-Up)
+**Github Repo:** [https://github.com/Vaibhav-chaudhary08/Groove-Up](https://github.com/Vaibhav-chaudhary08/Groove-Up)
 
 - Designed and implemented a Spotify-inspired music streaming web application with core playback features.
 - Integrated MongoDB for efficient storage and retrieval of user profiles and music tracks.
