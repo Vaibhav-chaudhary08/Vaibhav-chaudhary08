@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Dynamic Software Developer skilled in multiple programming languages, with hands-on experience building a Prescription Management App. Strong problem-solving and teamwork abilities. Adept at designing, testing, and deploying applications. Eager to contribute technical expertise and collaborative spirit to innovative software projects.
+Software Developer with a Bachelor’s in Computer Science, experienced in full-stack web development and QA testing. Skilled in MERN Stack, Firebase, Python, and REST APIs. Built scalable web and mobile apps with secure authentication and responsive UI. Certified in Full Stack Development, Data Analytics, Machine Learning, and Cloud Computing.
 
 ## Education
 
